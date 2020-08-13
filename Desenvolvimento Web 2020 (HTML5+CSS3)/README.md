@@ -16,24 +16,24 @@ Gustavo Guanabara
 	
 01. Evolução da Internet [✔️]		
 02. Como a Internet Funciona [✔️]		
-- 03. Domínio e Hospedagem [✔️]		
-- 04. Como funciona HTML e CSS [✔️]		
-- 05. Instalando Ferramentas		
-- 06. Nosso primeiro HTML5		
-- 07. Parágrafos e Quebras de Linha		
-- 08. Símbolos e Emojis		
-- 09. Direitos Autorais		
-- 10. Formatos de Imagem		
-- 11. Tamanhos de Imagem		
-- 12. Imagens em HTML5		
-- 13. Ícones e Favoritos		
-- 14. Hierarquia de Títulos		
-- 15. Semântica em HTML5		
-- 16. Negrito e Itálico		
-- 17. Formatações Importantes		
-- 18. Códigos e citações		
-- 19. Listas OL e UL		
-- 20. Listas mistas e de definição		
+03. Domínio e Hospedagem [✔️]		
+04. Como funciona HTML e CSS [✔️]		
+05. Instalando Ferramentas		
+06. Nosso primeiro HTML5		
+07. Parágrafos e Quebras de Linha		
+08. Símbolos e Emojis		
+09. Direitos Autorais		
+10. Formatos de Imagem		
+11. Tamanhos de Imagem		
+12. Imagens em HTML5		
+13. Ícones e Favoritos		
+14. Hierarquia de Títulos		
+15. Semântica em HTML5		
+16. Negrito e Itálico		
+17. Formatações Importantes		
+18. Códigos e citações		
+19. Listas OL e UL		
+20. Listas mistas e de definição		
 - 21. Links		
 - 22. Links Internos		
 - 23. Links para Download		
