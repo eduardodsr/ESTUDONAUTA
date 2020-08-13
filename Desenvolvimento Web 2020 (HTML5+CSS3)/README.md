@@ -2,7 +2,7 @@
 
 https://github.com/gustavoguanabara/html-css
 
-![](https://github.com/eduardodsr/ESTUDONAUTA
+![(https://github.com/eduardodsr/ESTUDONAUTA/]
 
 ### Professor:
 
@@ -19,7 +19,7 @@ Gustavo Guanabara
 02. Como a Internet Funciona [✔️]		
 03. Domínio e Hospedagem [✔️]		
 04. Como funciona HTML e CSS [✔️]		
-05. Instalando Ferramentas		
+05. Instalando Ferramentas	[✔️]			
 06. Nosso primeiro HTML5		
 07. Parágrafos e Quebras de Linha		
 08. Símbolos e Emojis		
