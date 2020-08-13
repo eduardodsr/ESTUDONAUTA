@@ -34,36 +34,36 @@ Gustavo Guanabara
 18. Códigos e citações		
 19. Listas OL e UL		
 20. Listas mistas e de definição		
-- 21. Links		
-- 22. Links Internos		
-- 23. Links para Download		
-- 24. Desafios do Capítulo 10		
-- 25. Imagens Dinâmicas		
-- 26. Elemento Picture		
-- 27. Elemento Áudio		
-- 28. Elemento Vídeo		
-- 29. Vídeos de Hospedagem Local		
-- 30. Vídeos de Hospedagem Externa		
-- 31. Desafio do Capítulo 11		
-- 32. Estilos CSS inline		
-- 33. Estilos CSS Internos		
-- 34. Estilos CSS Externos		
-- 35. Psicologia das Cores		
-- 36. Representando Cores		
-- 37. Harmonia de Cores		
-- 38. Paleta de cores na prática		
-- 39. Captura de cores em sites		
-- 40. Criando Degradê em CSS		
-- 41. Criando um site harmônico		
-- 42. Tipografia (parte 1)		
-- 43. Tipografia (parte 2)		
-- 44. Familias de fonte		
-- 45. Tamanhos de fonte		
-- 46. Peso, estilo e shorhand		
-- 47. Google Fonts		
-- 48. Fontes Externas		
-- 49. Fonts Ninja		
-- 50. WhatFontIs		
+21. Links		
+22. Links Internos		
+23. Links para Download		
+24. Desafios do Capítulo 10		
+25. Imagens Dinâmicas		
+26. Elemento Picture		
+27. Elemento Áudio		
+28. Elemento Vídeo		
+29. Vídeos de Hospedagem Local		
+30. Vídeos de Hospedagem Externa		
+31. Desafio do Capítulo 11		
+32. Estilos CSS inline		
+33. Estilos CSS Internos		
+34. Estilos CSS Externos		
+35. Psicologia das Cores		
+36. Representando Cores		
+37. Harmonia de Cores		
+38. Paleta de cores na prática		
+39. Captura de cores em sites		
+40. Criando Degradê em CSS		
+41. Criando um site harmônico		
+42. Tipografia (parte 1)		
+43. Tipografia (parte 2)		
+44. Familias de fonte		
+45. Tamanhos de fonte		
+46. Peso, estilo e shorhand		
+47. Google Fonts		
+48. Fontes Externas		
+49. Fonts Ninja		
+50. WhatFontIs		
 - 51. Alinhamentos		
 - 52. CSS id		
 - 53. CSS class		
