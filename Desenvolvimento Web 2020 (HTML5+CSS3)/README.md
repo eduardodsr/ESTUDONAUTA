@@ -14,7 +14,7 @@ Gustavo Guanabara
 
 ### EMENTA DO CURSO
 	
-- 01. Evolução da Internet [✔️]		
+- 	01. Evolução da Internet [✔️]		
 - 02. Como a Internet Funciona [✔️]		
 - 03. Domínio e Hospedagem [✔️]		
 - 04. Como funciona HTML e CSS [✔️]		
