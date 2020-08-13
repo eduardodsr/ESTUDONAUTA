@@ -2,12 +2,22 @@
 
 https://github.com/gustavoguanabara/html-css
 
+![](https://github.com/eduardodsr/ESTUDONAUTA
+
+### Professor:
+
+Gustavo Guanabara
+
+### Conteúdo (Meu andamento do Curso de Python):
+
+ Checklist de controle de atividades concluídas do curso de Desenvolvimento Web 2020 (HTML5+CSS3)✔️
+
 ### EMENTA DO CURSO
 	
-- Evolução da Internet		
-- Como a Internet Funciona		
-- Domínio e Hospedagem		
-- Como funciona HTML e CSS		
+- Evolução da Internet [✔️]		
+- Como a Internet Funciona [✔️]		
+- Domínio e Hospedagem [✔️]		
+- Como funciona HTML e CSS [✔️]		
 - Instalando Ferramentas		
 - Nosso primeiro HTML5		
 - Parágrafos e Quebras de Linha		
