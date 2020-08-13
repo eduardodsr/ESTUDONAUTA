@@ -20,7 +20,7 @@ Gustavo Guanabara
 03. Domínio e Hospedagem [✔️]		
 04. Como funciona HTML e CSS [✔️]		
 05. Instalando Ferramentas	[✔️]			
-06. Nosso primeiro HTML5		
+06. Nosso primeiro HTML5		[✔️]	
 07. Parágrafos e Quebras de Linha		
 08. Símbolos e Emojis		
 09. Direitos Autorais		
