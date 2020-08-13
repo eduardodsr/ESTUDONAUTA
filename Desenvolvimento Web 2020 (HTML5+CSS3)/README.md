@@ -1,8 +1,8 @@
 # Desenvolvimento Web 2020 (HTML5+CSS3)
 
-https://github.com/gustavoguanabara/html-css
+![GitHub] https://github.com/gustavoguanabara/html-css
 
-![(https://github.com/eduardodsr/ESTUDONAUTA/]
+![GitHub] (https://github.com/eduardodsr/ESTUDONAUTA
 
 ### Professor:
 
