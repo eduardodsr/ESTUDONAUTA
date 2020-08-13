@@ -64,31 +64,31 @@ Gustavo Guanabara
 48. Fontes Externas		
 49. Fonts Ninja		
 50. WhatFontIs		
-- 51. Alinhamentos		
-- 52. CSS id		
-- 53. CSS class		
-- 54. CSS pseudo-class		
-- 55. CSS pseudo-element		
-- 56. Modelo de Caixas		
-- 57. Praticando o Box Model		
-- 58. Shorthands Úteis		
-- 59. Grouping Tags Semânticas		
-- 60. Sombra nas Caixas		
-- 61. Vértices Arredondados		
-- 62. Bordas com Imagens		
-- 63. Desafio Site Completo		
-- 64. Criando um projeto do Zero		
-- 65. Como vai ficar o projeto pronto		
-- 66. Wireframe, paleta e tipografia		
-- 67. Apricando o Wireframe		
-- 68. Organizando o Conteúdo		
-- 69. Variáveis em CSS		
-- 70. Responsividade		
-- 71. Tornando um site responsivo		
-- 72. Personalizando o topo		
-- 73. Estilizando o Conteúdo		
-- 74. Rodapé e Aside		
-- 75. Vídeo Adaptável		
-- 76. O que é Git e GitHub?		
-- 77. AVISO		
+51. Alinhamentos		
+52. CSS id		
+53. CSS class		
+54. CSS pseudo-class		
+55. CSS pseudo-element		
+56. Modelo de Caixas		
+57. Praticando o Box Model		
+58. Shorthands Úteis		
+59. Grouping Tags Semânticas		
+60. Sombra nas Caixas		
+61. Vértices Arredondados		
+62. Bordas com Imagens		
+63. Desafio Site Completo		
+64. Criando um projeto do Zero		
+65. Como vai ficar o projeto pronto		
+66. Wireframe, paleta e tipografia		
+67. Apricando o Wireframe		
+68. Organizando o Conteúdo		
+69. Variáveis em CSS		
+70. Responsividade		
+71. Tornando um site responsivo		
+72. Personalizando o topo		
+73. Estilizando o Conteúdo		
+74. Rodapé e Aside		
+75. Vídeo Adaptável		
+76. O que é Git e GitHub?		
+77. AVISO		
 
