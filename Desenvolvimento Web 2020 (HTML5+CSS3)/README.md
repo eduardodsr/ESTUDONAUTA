@@ -13,7 +13,8 @@ Gustavo Guanabara
  Checklist de controle de atividades concluídas do curso de Desenvolvimento Web 2020 (HTML5+CSS3)✔️
 
 ### EMENTA DO CURSO
-	
+
+00. Introdução 	[✔️]
 01. Evolução da Internet [✔️]		
 02. Como a Internet Funciona [✔️]		
 03. Domínio e Hospedagem [✔️]		
