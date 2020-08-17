@@ -1,24 +1,5 @@
 # Desenvolvimento Web 2020 (HTML5+CSS3)
 
-
-### Links Exemplos
-
-[Links](http://localhost/)
-
-[Links with title](http://localhost/ "link title")
-
-`<link>` : <https://github.com>
-
-### Link:
-
-[Links] https://github.com/eduardodsr/ESTUDONAUTA
-
-[Links](https://github.com/eduardodsr/ESTUDONAUTA)
-
-[Links with title](https://github.com/eduardodsr/ "ESTUDONAUTA")
-
-```<link>``` : <https://github.com/eduardodsr/ESTUDONAUTA>
-
 ``` Link: ```
 <https://github.com/eduardodsr/ESTUDONAUTA>
 
