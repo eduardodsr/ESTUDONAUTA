@@ -20,10 +20,10 @@ Gustavo Guanabara
 04. Como funciona HTML e CSS [✔️]		
 05. Instalando Ferramentas	[✔️]			
 06. Nosso primeiro HTML5		[✔️]	
-07. Parágrafos e Quebras de Linha		
-08. Símbolos e Emojis		
-09. Direitos Autorais		
-10. Formatos de Imagem		
+07. Parágrafos e Quebras de Linha		[✔️]	
+08. Símbolos e Emojis		[✔️]	
+09. Direitos Autorais		[✔️]	
+10. Formatos de Imagem	[✔️]		
 11. Tamanhos de Imagem		
 12. Imagens em HTML5		
 13. Ícones e Favoritos		
