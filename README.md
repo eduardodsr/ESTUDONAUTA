@@ -1,6 +1,6 @@
 # ESTUDONAUTA
 
-README - EM CONSTRUÇÃO!!!
+### Eduardo da Silva Rodrigues
 
 Controle das minhas Atividades do Projeto Estudonauta.
 
