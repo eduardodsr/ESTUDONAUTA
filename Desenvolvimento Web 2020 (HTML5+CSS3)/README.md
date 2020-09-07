@@ -92,5 +92,15 @@ Gustavo Guanabara
 74. Rodapé e Aside		
 75. Vídeo Adaptável		
 76. O que é Git e GitHub?		
-77. AVISO		
-
+77. Instalação do Git e GitHub
+78. Criando conta GitHub
+79. Primeiro Repositório
+80. Gerenciando Repositórios
+81. GitHub Pages
+82. Manutenção em sites do GitHub
+83. GitHub Social
+84. Clonando Repositórios
+85. GitHub em outro PC
+86. Imagens de fundo
+87. Propriedade background-image
+88. Propriedade background-repeat
