@@ -1,9 +1,8 @@
 # Desenvolvimento Web 2020 (HTML5+CSS3)
 
 [![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
-![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/ESTUDONAUTA)
-![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/ESTUDONAUTA)
-![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/ESTUDONAUTA)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.ESTUDONAUTA)
+
 
 ``` Link: ```
 <https://github.com/eduardodsr/ESTUDONAUTA>
