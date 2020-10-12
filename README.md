@@ -1,6 +1,6 @@
 # ESTUDONAUTA
 
-[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.ESTUDONAUTA)
 
 ### Eduardo da Silva Rodrigues
