@@ -69,11 +69,11 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 
 
 ## Módulo B - Comandos Básicos do JavaScript
-01. Módulo B – Comandos Básicos do JavaScript  :x:
-01. JavaScript 05 – Variáveis e Tipos Primitivos  :x:
-01. JavaScript 06 – Tratamento de dados  :x:
-01. JavaScript 07 – Operadores (Parte1) :x:
-01. JavaScript 08 – Operadores (Parte 2) :x:
+01. Módulo B – Comandos Básicos do JavaScript  ✔️
+01. JavaScript 05 – Variáveis e Tipos Primitivos  ✔️
+01. JavaScript 06 – Tratamento de dados  ✔️
+01. JavaScript 07 – Operadores (Parte 1) ✔️
+01. JavaScript 08 – Operadores (Parte 2) ✔️
 
 ## Módulo C – Entendendo o DOM
 01. Módulo C – Entendendo o DOM :x:
