@@ -108,6 +108,23 @@ Atividades de Eduardo Rodrigues
 01. JavaScript 17 – Próximos Passos	:x:
 
 
+## Referências e Guias:
+
+- ### JavaScript
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
+
+https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+
+https://www.caelum.com.br/apostila-html-css-javascript/
+
+https://www.w3schools.com/js/default.asp
+
+https://www.devmedia.com.br/javascript/
+
+
 ### CONTATO: :mailbox_with_no_mail:
 
 ###  PROGRAMADOR JAVASCRIPT: 
