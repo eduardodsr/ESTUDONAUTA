@@ -105,6 +105,10 @@ Atividades de Eduardo Rodrigues
 01. JavaScript 16 – Exercícios (parte 2) :x:
 01. JavaScript 17 – Próximos Passos	:x:
 
+## Ferramentas:
+- Google Chrome
+- Editor de Código (VS Code)
+- Node JS
 
 ## Referências e Guias:
 
