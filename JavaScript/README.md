@@ -14,6 +14,7 @@ Gustavo Guanabara
 
 
 ## Conteúdo do Curso de JS | CheckList ✔️:
+Atividades de Eduardo Rodrigues
 
 ## Módulo A – Conhecendo o JavaScript
 01. JavaScript 01 – O que o JavaScript é capaz de fazer? ✔️
