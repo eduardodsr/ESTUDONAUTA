@@ -114,7 +114,7 @@ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
 https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
 
-https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+https://www.ecma-international.org/publications/standards/Ecma-262.htm
 
 https://www.caelum.com.br/apostila-html-css-javascript/
 
