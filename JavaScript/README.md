@@ -64,7 +64,8 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 01. JavaScript 01 – O que o JavaScript é capaz de fazer? ✔️
 01. JavaScript 02 – JavaScript: como chegamos até aqui?  ✔️
 01. JavaScript 03 – Dando os primeiros passos ✔️
-01. JavaScript 04 – Criando o seu primeiro script ✔️
+01. [JavaScript 04 – Criando o seu primeiro script]<https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula04> ✔️
+
 
 
 ## Módulo B - Comandos Básicos do JavaScript
