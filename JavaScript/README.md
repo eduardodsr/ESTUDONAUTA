@@ -110,17 +110,17 @@ Atividades de Eduardo Rodrigues
 
 - ### JavaScript
 
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+``` Link: ``` https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
+``` Link: ``` https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
 
-https://www.ecma-international.org/publications/standards/Ecma-262.htm
+``` Link: ``` https://www.ecma-international.org/publications/standards/Ecma-262.htm
 
-https://www.caelum.com.br/apostila-html-css-javascript/
+``` Link: ``` https://www.caelum.com.br/apostila-html-css-javascript/
 
-https://www.w3schools.com/js/default.asp
+``` Link: ``` https://www.w3schools.com/js/default.asp
 
-https://www.devmedia.com.br/javascript/
+``` Link: ``` https://www.devmedia.com.br/javascript/
 
 
 ### CONTATO: :mailbox_with_no_mail:
