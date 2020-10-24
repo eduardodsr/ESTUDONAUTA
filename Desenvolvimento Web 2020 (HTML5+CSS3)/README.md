@@ -11,7 +11,7 @@
 
 Gustavo Guanabara
 
-### :cloud: Desenvolvimento Web 2020 (HTML5 + CSS3) :cloud:
+### :cloud: ESTUDONAUTA - Desenvolvimento Web 2020 (HTML5 + CSS3) :cloud:
 
 ## Conteúdo do Curso de JS | CheckList ✔️:
 Atividades de Eduardo Rodrigues
