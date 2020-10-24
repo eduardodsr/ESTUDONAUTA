@@ -57,7 +57,14 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 
 
 ## Conteúdo do Curso de JS | CheckList ✔️:
-Atividades de Eduardo Rodrigues
+Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com um dos melhores professores, Gustavo Guanabara.
+
+## Dicas
+Como aprender?
+- Aulas (vídeos, livros, cursos, etc.)
+- Praticar (exercícios, projetos, desafios, etc.). Você aprendende a programar somente praticando. Não virar um copiador de código.  
+- Ter um guia de referência de conteúdo, manual, livro. Fazer anotações, resumos.
+- Participar da Comunidade. Interagir com a pessoas. Ensinar o que aprendeu. Participar de grupos, foruns, eventos, treinamentos, etc.
 
 ## Módulo A – Conhecendo o JavaScript
 01. Módulo A – Conhecendo o JavaScript ✔️
