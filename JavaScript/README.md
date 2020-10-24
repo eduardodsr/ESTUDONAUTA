@@ -13,6 +13,21 @@ Gustavo Guanabara
 <https://github.com/eduardodsr/ESTUDONAUTA>
 
 
+## Carga Horária:
+40 horas
+
+## Links das Plataformas:
+
+**Site Curso em Video:** 
+<https://www.cursoemvideo.com/course/javascript/>
+
+**Canal do TouTube - Playlist:** 
+<https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1>
+
+**Site Estudonauta:** 
+<https://github.com/eduardodsr/ESTUDONAUTA>
+
+
 ## Conteúdo do Curso de JS | CheckList ✔️:
 Atividades de Eduardo Rodrigues
 
