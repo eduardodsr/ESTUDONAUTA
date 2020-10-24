@@ -12,20 +12,40 @@ Gustavo Guanabara
 ``` Link: ```
 <https://github.com/eduardodsr/ESTUDONAUTA>
 
+## Curso Grátis de JavaScript e ECMAScript para Iniciantes (YouTuve e Site Curso em Vídeo)
+
+- Total de 33 vídeos com 10 horas e 18 minutos.
+- Última atualização em 29 de jul. de 2019
+
+## Descrição
+
+Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS. 
+Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o conteúdo básico em 6 módulos:
+
+- Módulo 01: Conhecendo o JavaScript
+- Módulo 02: Comandos básicos do JavaScript
+- Módulo 03: Document Object Model
+- Módulo 04: Condições em JavaScript
+- Módulo 05: Repetições (laços) em JavaScript
+- Módulo 06: Avançando nos estudos em JavaScript
+
 
 ## Carga Horária:
 40 horas
 
 ## Links das Plataformas:
 
-**Site Curso em Video:** 
-<https://www.cursoemvideo.com/course/javascript/>
+**Site Curso em Video (Gratuito):** 
 
-**Canal do TouTube - Playlist:** 
-<https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1>
+``` Link: ``` <https://www.cursoemvideo.com/course/javascript/>
 
-**Site Estudonauta:** 
-<https://github.com/eduardodsr/ESTUDONAUTA>
+**Canal do TouTube - Playlist (Gratuito):** 
+
+``` Link: ``` <https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1>
+
+**Site Estudonauta (Apoiadores):** 
+
+``` Link: ``` <https://www.estudonauta.com>
 
 
 ## Conteúdo do Curso de JS | CheckList ✔️:
