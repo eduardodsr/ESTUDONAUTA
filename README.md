@@ -10,15 +10,11 @@
 
 ### Desenvolvimento Web 2020 (HTML5+CSS3)
 
-``` link: ```
-
-[HTML+CSS](https://github.com/eduardodsr/ESTUDONAUTA/blob/master/Desenvolvimento%20Web%202020%20(HTML5+CSS3)/README.md)
+``` link: ```  [HTML+CSS](https://github.com/eduardodsr/ESTUDONAUTA/blob/master/Desenvolvimento%20Web%202020%20(HTML5+CSS3)/README.md)
 
 ### JavaScript
 
-``` link: ```
-
-[JavaScript](https://github.com/eduardodsr/ESTUDONAUTA/blob/master/JavaScript/README.md)
+``` link: ```  [JavaScript](https://github.com/eduardodsr/ESTUDONAUTA/blob/master/JavaScript/README.md)
 
 
 ### CONTATO: :mailbox_with_no_mail:
