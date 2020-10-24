@@ -7,10 +7,10 @@
 
 
 ## Módulo A – Conhecendo o JavaScript
-- O que o JavaScript é capaz de fazer? – Curso JavaScript #01
-- JavaScript: como chegamos até aqui? – Curso JavaScript #02
-- Dando os primeiros passos – Curso JavaScript #03
-- Criando o seu primeiro script – Curso JavaScript #04
+01. O que o JavaScript é capaz de fazer? – Curso JavaScript #01
+02. JavaScript: como chegamos até aqui? – Curso JavaScript #02
+03. Dando os primeiros passos – Curso JavaScript #03
+04. Criando o seu primeiro script – Curso JavaScript #04
 
 ## Módulo B – Comandos Básicos do JavaScript
 - Variáveis e Tipos Primitivos – Curso JavaScript #05
