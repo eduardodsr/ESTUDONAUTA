@@ -13,11 +13,8 @@ Gustavo Guanabara
 
 ### :cloud: Desenvolvimento Web 2020 (HTML5 + CSS3) :cloud:
 
-### Conteúdo | Controle de Atividades:
-
-### Eduardo da Silva Rodrigues
-
- Checklist de controle de atividades concluídas do curso de Desenvolvimento Web 2020 (HTML5+CSS3)✔️
+## Conteúdo do Curso de JS | CheckList ✔️:
+Atividades de Eduardo Rodrigues
 
 ### EMENTA DO CURSO
 
