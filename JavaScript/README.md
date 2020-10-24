@@ -125,7 +125,15 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 
 ``` Link: ``` https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
 
+Standard ECMA-262 - 6th Edition / June 2015 - ECMAScript® 2015 Language Specification
+
+``` Link: ``` http://www.ecma-international.org/ecma-262/6.0/ECMA-262.pdf
+
+Standard ECMA-262 - 11th Edition / June 2020 - ECMAScript® 2020 - Language Specification
+
 ``` Link: ``` https://www.ecma-international.org/publications/standards/Ecma-262.htm
+
+``` Link: ``` https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf
 
 ``` Link: ``` https://www.caelum.com.br/apostila-html-css-javascript/
 
