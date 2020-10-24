@@ -8,38 +8,38 @@
 
 ## Módulo A – Conhecendo o JavaScript
 01. O que o JavaScript é capaz de fazer? – Curso JavaScript #01
-02. JavaScript: como chegamos até aqui? – Curso JavaScript #02
-03. Dando os primeiros passos – Curso JavaScript #03
-04. Criando o seu primeiro script – Curso JavaScript #04
+01. JavaScript: como chegamos até aqui? – Curso JavaScript #02
+01. Dando os primeiros passos – Curso JavaScript #03
+01. Criando o seu primeiro script – Curso JavaScript #04
 
 ## Módulo B – Comandos Básicos do JavaScript
-- Variáveis e Tipos Primitivos – Curso JavaScript #05
-- JavaScript 06 – Tratamento de dados
-- JavaScript 07 – Operadores (Parte1)
-- JavaScript 08 – Operadores (Parte 2)
+01. Variáveis e Tipos Primitivos – Curso JavaScript #05
+01. JavaScript 06 – Tratamento de dados
+01. JavaScript 07 – Operadores (Parte1)
+01. JavaScript 08 – Operadores (Parte 2)
 
 ## Módulo C – Entendendo o DOM
-JavaScript 09 – Introdução ao DOM	
-JavaScript 10 – Eventos DOM
+01. JavaScript 09 – Introdução ao DOM	
+01. JavaScript 10 – Eventos DOM
 
 ## Módulo D – Condições em JavaScript
-JavaScript 11 – Condições (Parte 1)
-JavaScript 12 – Condições (Parte 2)
-JavaScript 12 – Exercícios (Parte 1)
-JavaScript 12 – Exercícios (Parte 2)
-JavaScript 12 – Exercícios (Parte 3)
+11. – Condições (Parte 1)
+12 – Condições (Parte 2)
+12 – Exercícios (Parte 1)
+12 – Exercícios (Parte 2)
+12 – Exercícios (Parte 3)
 
 ## Módulo E – Repetições em JavaScript
-JavaScript 13 – Repetições
-JavaScript 14 – Repetições (Parte 2)
-JavaScript 14 – Exercícios (parte 1)
-JavaScript 14 – Exercícios (parte 2)
-JavaScript 14 – Exercícios (parte 3)
+13 – Repetições
+14 – Repetições (Parte 2)
+14 – Exercícios (parte 1)
+14 – Exercícios (parte 2)
+14 – Exercícios (parte 3)
 
 ## Módulo F – Avançando os estudos em JavaScript
-JavaScript 15 – Variáveis Compostas	
-JavaScript 16 – Funções
-JavaScript 16 – Exercícios (parte1)	
-JavaScript 16 – Exercícios (parte 2)
-JavaScript 17 – Próximos Passos	
+15 – Variáveis Compostas	
+16 – Funções
+16 – Exercícios (parte1)	
+16 – Exercícios (parte 2)
+17 – Próximos Passos	
 
