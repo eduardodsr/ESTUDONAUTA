@@ -12,7 +12,7 @@ Gustavo Guanabara
 ``` Link: ```
 <https://github.com/eduardodsr/ESTUDONAUTA>
 
-## Curso Grátis de JavaScript e ECMAScript para Iniciantes (YouTuve e Site Curso em Vídeo)
+## Curso de JavaScript e ECMAScript para Iniciantes
 
 - Total de 33 vídeos com 10 horas e 18 minutos.
 - Última atualização em 29 de jul. de 2019
