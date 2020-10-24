@@ -47,6 +47,19 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 
 ``` Link: ``` <https://www.estudonauta.com>
 
+## O que é HTML, CSS e JS?
+
+- HTML:
+**HTML** - HyperText Markup Language, que significa Linguagem de Marcação de Hipertexto.
+- Conteúdo
+
+- CSS:
+**CSS – Cascading Style Sheets** – é um mecanismo para adicionar estilo cores, fontes, espaçamento, entre outras a um documento web. Em vez de colocar a formatação dentro do documento, o CSS cria um link para uma página que contém os estilos.
+- Estilo
+
+- JS:
+**JS (JavaScript)** é uma linguagem de programação criada para ser parte dos navegadores web, para que scripts possam ser executados do lado do cliente e interajam com o usuário sem a necessidade deste script passar pelo servidor, controlando o navegador, realizando comunicação assíncrona e alterando o conteúdo do documento exibido.
+- Interação
 
 ## Conteúdo do Curso de JS | CheckList ✔️:
 Atividades de Eduardo Rodrigues
