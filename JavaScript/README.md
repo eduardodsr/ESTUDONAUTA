@@ -66,7 +66,7 @@ Atividades de Eduardo Rodrigues
 
 ### CONTATO: :mailbox_with_no_mail:
 
-###  DESENVOLVEDOR FRONT-END: 
+###  PROGRAMADOR JAVASCRIPT: 
 
 ### :star: EDUARDO DA SILVA RODRIGUES :star:
 
