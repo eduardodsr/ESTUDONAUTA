@@ -95,7 +95,7 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 ## Módulo E – Repetições e Exercícios em JavaScript
 01. Módulo E – Repetições em JavaScript :x:
 01. JavaScript 13 – Repetições (Parte 1) :x:
-01. JavaScript 14 – Repetições (Parte 2) :x:
+01. JavaScript 13 – Repetições (Parte 2) :x:
 01. JavaScript 14 – Exercícios (parte 1) :x:
 01. JavaScript 14 – Exercícios (parte 2) :x:
 01. JavaScript 14 – Exercícios (parte 3) :x:
@@ -105,7 +105,7 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 01. Módulo F – Avançando os estudos em JavaScript 	:x:
 01. JavaScript 15 – Variáveis Compostas	:x:
 01. JavaScript 16 – Funções :x:
-01. JavaScript 16 – Exercícios (parte1)	:x:
+01. JavaScript 16 – Exercícios (parte 1)	:x:
 01. JavaScript 16 – Exercícios (parte 2) :x:
 01. JavaScript 17 – Próximos Passos	:x:
 
