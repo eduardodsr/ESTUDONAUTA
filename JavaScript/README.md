@@ -64,15 +64,16 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 01. JavaScript 01 – O que o JavaScript é capaz de fazer? ✔️
 01. JavaScript 02 – JavaScript: como chegamos até aqui?  ✔️
 01. JavaScript 03 – Dando os primeiros passos ✔️
-01. JavaScript 04 – Criando o seu primeiro script ✔️
+01. [JavaScript 04 – Criando o seu primeiro script](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula04) ✔️
+
 
 
 ## Módulo B - Comandos Básicos do JavaScript
-01. Módulo B – Comandos Básicos do JavaScript  :x:
-01. JavaScript 05 – Variáveis e Tipos Primitivos  :x:
-01. JavaScript 06 – Tratamento de dados  :x:
-01. JavaScript 07 – Operadores (Parte1) :x:
-01. JavaScript 08 – Operadores (Parte 2) :x:
+01. Módulo B – Comandos Básicos do JavaScript  ✔️
+01. JavaScript 05 – Variáveis e Tipos Primitivos  ✔️
+01. JavaScript 06 – Tratamento de dados  ✔️
+01. JavaScript 07 – Operadores (Parte 1) ✔️
+01. JavaScript 08 – Operadores (Parte 2) ✔️
 
 ## Módulo C – Entendendo o DOM
 01. Módulo C – Entendendo o DOM :x:
@@ -124,7 +125,15 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 
 ``` Link: ``` https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction
 
+Standard ECMA-262 - 6th Edition / June 2015 - ECMAScript® 2015 Language Specification
+
+``` Link: ``` http://www.ecma-international.org/ecma-262/6.0/ECMA-262.pdf
+
+Standard ECMA-262 - 11th Edition / June 2020 - ECMAScript® 2020 - Language Specification
+
 ``` Link: ``` https://www.ecma-international.org/publications/standards/Ecma-262.htm
+
+``` Link: ``` https://www.ecma-international.org/publications/files/ECMA-ST/ECMA-262.pdf
 
 ``` Link: ``` https://www.caelum.com.br/apostila-html-css-javascript/
 
