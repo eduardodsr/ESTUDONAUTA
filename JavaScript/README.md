@@ -60,7 +60,7 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com um dos melhores professores, Gustavo Guanabara.
 
 ## Módulo A – Conhecendo o JavaScript
-01. Módulo A – Conhecendo o JavaScript ✔️
+01. Módulo A – Conhecendo o JavaScript#1 ✔️
 01. JavaScript 01 – O que o JavaScript é capaz de fazer? ✔️
 01. JavaScript 02 – JavaScript: como chegamos até aqui?  ✔️
 01. JavaScript 03 – Dando os primeiros passos ✔️
@@ -71,7 +71,6 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 ## Módulo B - Comandos Básicos do JavaScript
 01. Módulo B – Comandos Básicos do JavaScript  ✔️
 01. JavaScript 05 – Variáveis e Tipos Primitivos  ✔️
-01. JavaScript 06 – Tratamento de dados  ✔️
 01. [JavaScript 06 – Tratamento de dados](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula06) ✔️
 01. JavaScript 07 – Operadores (Parte 1) ✔️
 01. JavaScript 08 – Operadores (Parte 2) ✔️
