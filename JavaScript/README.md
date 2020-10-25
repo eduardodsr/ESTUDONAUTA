@@ -52,7 +52,7 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 
 ## O que é HTML, CSS e JS?
 
-**HTML** - HyperText Markup Language, que significa Linguagem de Marcação de Hipertexto. (Conteúdo)
+**HTML - HyperText Markup Language**, que significa Linguagem de Marcação de Hipertexto. (Conteúdo)
 
 **CSS – Cascading Style Sheets** – é um mecanismo para adicionar estilo cores, fontes, espaçamento, entre outras a um documento web. Em vez de colocar a formatação dentro do documento, o CSS cria um link para uma página que contém os estilos. (Estilo)
 
@@ -79,9 +79,9 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 01. JavaScript 08 – Operadores (Parte 2) ✔️
 
 ## Módulo C – Entendendo o DOM (Document Object Model)
-01. Módulo C – Entendendo o DOM :x:
-01. JavaScript 09 – Introdução ao DOM	 :x:
-01. JavaScript 10 – Eventos DOM :x:
+01. Módulo C – Entendendo o DOM ✔️
+01. JavaScript 09 – Introdução ao DOM	 ✔️
+01. JavaScript 10 – Eventos DOM ✔️
 
 
 ## Módulo D – Condições em JavaScript
