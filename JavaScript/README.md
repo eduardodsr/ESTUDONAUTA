@@ -72,6 +72,7 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 01. Módulo B – Comandos Básicos do JavaScript  ✔️
 01. JavaScript 05 – Variáveis e Tipos Primitivos  ✔️
 01. JavaScript 06 – Tratamento de dados  ✔️
+01. [JavaScript 06 – Tratamento de dados](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula06) ✔️
 01. JavaScript 07 – Operadores (Parte 1) ✔️
 01. JavaScript 08 – Operadores (Parte 2) ✔️
 
