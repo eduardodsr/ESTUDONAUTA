@@ -6,9 +6,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/ESTUDONAUTA)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.ESTUDONAUTA/tree/master/JavaScript)
 
-https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript
-
-
 ## Professor:
 
 Gustavo Guanabara
