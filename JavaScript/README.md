@@ -78,7 +78,7 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 01. JavaScript 07 – Operadores (Parte 1) ✔️
 01. JavaScript 08 – Operadores (Parte 2) ✔️
 
-## Módulo C – Entendendo o DOM
+## Módulo C – Entendendo o DOM (Document Object Model)
 01. Módulo C – Entendendo o DOM :x:
 01. JavaScript 09 – Introdução ao DOM	 :x:
 01. JavaScript 10 – Eventos DOM :x:
