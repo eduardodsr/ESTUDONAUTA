@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio do ex008.js</title>
+</head>
+<body>
+    <h1>Sistema de Nascionalidade</h1>
+    Digite a sua Nascionalidade: <input type="text" value="Brasil" name="nasc" id='nasc'>
+    <input type="button" value="verificar" onclick="verificar()">
+    <div id="res"></div>
+
+    <script>
+
+        function verificar() {     
+
+            var nasc = window.document.getElementById('nasc')
+            var res = window.document.querySelector('div#res')            
+             
+            var n = String (nasc.value)     
+
+            res.innerHTML = `<p>A sua nascionalidade é <strong> ${n}</strong></p>`
+            
+            if (n.toUpperCase() == 'BRASIL') {
+                res.innerHTML += `<p>Você é Brasileiro</p>`
+                // console.log('Vocé é Brasileiro!')
+            } else {
+                res.innerHTML += `<p>Você é Estrangeiro</p>`
+                //console.log('Vocé é Estrangeiro')
+            }
+
+            res.innerHTML += `<p>Fim do programa</p>`
+          
+        }
+
+    </script>   
+    
+</body>
+</html>
+
