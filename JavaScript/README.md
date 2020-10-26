@@ -1,7 +1,10 @@
 # JavaScript
 
-[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.ESTUDONAUTA)
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/)
+![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/ESTUDONAUTA)
+![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/ESTUDONAUTA)
+![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/ESTUDONAUTA)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.ESTUDONAUTA/tree/master/JavaScript)
 
 ## Professor:
 
@@ -49,7 +52,7 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 
 ## O que é HTML, CSS e JS?
 
-**HTML** - HyperText Markup Language, que significa Linguagem de Marcação de Hipertexto. (Conteúdo)
+**HTML - HyperText Markup Language**, que significa Linguagem de Marcação de Hipertexto. (Conteúdo)
 
 **CSS – Cascading Style Sheets** – é um mecanismo para adicionar estilo cores, fontes, espaçamento, entre outras a um documento web. Em vez de colocar a formatação dentro do documento, o CSS cria um link para uma página que contém os estilos. (Estilo)
 
@@ -60,7 +63,7 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com um dos melhores professores, Gustavo Guanabara.
 
 ## Módulo A – Conhecendo o JavaScript
-01. Módulo A – Conhecendo o JavaScript ✔️
+01. Módulo A – Conhecendo o JavaScript#1 ✔️
 01. JavaScript 01 – O que o JavaScript é capaz de fazer? ✔️
 01. JavaScript 02 – JavaScript: como chegamos até aqui?  ✔️
 01. JavaScript 03 – Dando os primeiros passos ✔️
@@ -71,14 +74,14 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 ## Módulo B - Comandos Básicos do JavaScript
 01. Módulo B – Comandos Básicos do JavaScript  ✔️
 01. JavaScript 05 – Variáveis e Tipos Primitivos  ✔️
-01. JavaScript 06 – Tratamento de dados  ✔️
+01. [JavaScript 06 – Tratamento de dados](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula06) ✔️
 01. JavaScript 07 – Operadores (Parte 1) ✔️
 01. JavaScript 08 – Operadores (Parte 2) ✔️
 
-## Módulo C – Entendendo o DOM
-01. Módulo C – Entendendo o DOM :x:
-01. JavaScript 09 – Introdução ao DOM	 :x:
-01. JavaScript 10 – Eventos DOM :x:
+## Módulo C – Entendendo o DOM (Document Object Model)
+01. Módulo C – Entendendo o DOM ✔️
+01. JavaScript 09 – Introdução ao DOM	 ✔️
+01. JavaScript 10 – Eventos DOM ✔️
 
 
 ## Módulo D – Condições em JavaScript
@@ -92,7 +95,7 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 ## Módulo E – Repetições e Exercícios em JavaScript
 01. Módulo E – Repetições em JavaScript :x:
 01. JavaScript 13 – Repetições (Parte 1) :x:
-01. JavaScript 14 – Repetições (Parte 2) :x:
+01. JavaScript 13 – Repetições (Parte 2) :x:
 01. JavaScript 14 – Exercícios (parte 1) :x:
 01. JavaScript 14 – Exercícios (parte 2) :x:
 01. JavaScript 14 – Exercícios (parte 3) :x:
@@ -102,7 +105,7 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 01. Módulo F – Avançando os estudos em JavaScript 	:x:
 01. JavaScript 15 – Variáveis Compostas	:x:
 01. JavaScript 16 – Funções :x:
-01. JavaScript 16 – Exercícios (parte1)	:x:
+01. JavaScript 16 – Exercícios (parte 1)	:x:
 01. JavaScript 16 – Exercícios (parte 2) :x:
 01. JavaScript 17 – Próximos Passos	:x:
 
