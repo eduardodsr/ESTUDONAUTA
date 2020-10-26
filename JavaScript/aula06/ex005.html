@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros passos com DOM</title>
+    <style>
+        body {
+            background: rgb(68, 125, 199);
+            color: white;
+            font: normal 18pt Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Iniciando estudos com DOM.- Document Object Model</h1>
+    <p>Aqui vai o resultado!!!</p>
+    <p>Aprendendo a usar o <strong>DOM</strong> em JS.</p>
+    <div id="msg">Clique em mim</div>
+    <div name="msg1">Mensagem 1</div>
+    <div class="msg2">Mensagem 2</div>
+</body>
+    <script>
+        var corpo = window.document.body
+        // alterando a cor de fundo da tag <body>
+        corpo.style.background = 'black'
+
+        window.document.write('<br><br>')
+        // conteúdo para parágrado 0 (primeiro parágrado)
+        var p1 = window.document.getElementsByTagName('p')[0]
+        window.document.write('O 1º parágrafo está escrito assim: ' + p1.innerText)
+        
+        // Alterando a cor da variavel p1
+        p1.style.color = 'blue'
+
+        window.document.write('<br><br>')
+        // conteúdo para parágrado 1 (segundo parágrado)
+        var p2 = window.document.getElementsByTagName('p')[1]
+        window.document.write('\n O 2º parágrafo está escrito assim: ' + p2.innerText)
+
+        // Alterando a cor da variavel p2
+        p2.style.color = 'red'
+
+        window.document.write('<br><br>')
+
+        var p3 = window.document.getElementsByTagName('p')[1]
+        document.write('Apresentando o 2º parágrafo, apresenta o resultado com as tags (innerHTML): ' + p3.innerHTML)
+        
+        // Apresenta um alerta na tela
+        // window.alert(p3.innerText)
+
+        // Alterando a tag <div>
+        var d = window.document.getElementById('msg')
+        d.style.background = 'green'
+        // alterar a msg = 'Clima em mim' p/ 'Estou aguardando...' 
+        d.innerText = 'Estou aguardando...'       
+        
+        // poderia usar o comando complento
+        // window.document.getElementById('msg').innerText = 'Olá'  
+        
+        // Modificar 'Mensagem 1' p/ 'Olá'
+        var d1 = window.document.getElementsByName('msg1')[0]
+        d1.innerText = 'Olá'
+
+        // Modificar 'Mensagem 2' p/ 'Oi'
+        var d2 = window.document.getElementsByClassName('msg2')[0]
+        d2.innerText = 'Oi'
+
+        // DOM - Selecionando por Seletor
+        // querySelector()
+        // querySelectorAll()
+        var d3 = window.document.querySelector('div#msg') //id -> #
+        d3.style.background = 'blue'
+
+        var d4 = window.document.querySelector('div.msg2') // class -> .
+        d4.style.color = 'yellow'
+
+        
+        window.document.write('<br><br>') // Quebra de linha
+        window.document.write('Olá, Mundo!') // Exibe a string na tela
+        window.document.write('<br><br>')        
+        window.document.write(window.document.charset)
+        window.document.write('<br><br>') 
+        window.document.write(window.navigator.appVersion)
+        window.document.write('<br><br>') 
+        window.document.write(window.document.URL)       
+
+    </script>
+</html>
