@@ -87,11 +87,11 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 
 
 ## Módulo D – Condições em JavaScript
-01. JavaScript 11 - Condições (Parte 1) :x:
-01. JavaScript 11 - Condições (Parte 2) :x:
-01. JavaScript 12 - Exercícios (Parte 1) :x:
-01. JavaScript 12 - Exercícios (Parte 2) :x:
-01. JavaScript 12 - Exercícios (Parte 3) :x:
+01. JavaScript 11 - Condições (Parte 1) ✔️
+01. JavaScript 11 - Condições (Parte 2) ✔️
+01. JavaScript 12 - Exercícios (Parte 1) ✔️
+01. JavaScript 12 - Exercícios (Parte 2) ✔️
+01. JavaScript 12 - Exercícios (Parte 3) ✔️
 
 
 ## Módulo E – Repetições e Exercícios em JavaScript
