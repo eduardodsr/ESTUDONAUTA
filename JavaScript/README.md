@@ -81,7 +81,7 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 ## Módulo C – Entendendo o DOM (Document Object Model)
 01. Módulo C – Entendendo o DOM ✔️
 01. JavaScript 09 – Introdução ao DOM	 ✔️
-01. JavaScript 10 – Eventos DOM ✔️
+01. [JavaScript 10 – Eventos DOM]((https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula10) ✔️
 
 
 ## Módulo D – Condições em JavaScript
