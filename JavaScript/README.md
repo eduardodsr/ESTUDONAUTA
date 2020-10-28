@@ -91,7 +91,7 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 01. [JavaScript 11 - Condições (Parte 2)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12) ✔️
 01. [JavaScript 12 - Exercícios (Parte 1)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex) ✔️
 01. [JavaScript 12 - Exercícios (Parte 2)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex/ex14) ✔️
-01. [JavaScript 12 - Exercícios (Parte 3)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12) ✔️
+01. [JavaScript 12 - Exercícios (Parte 3)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex/ex15) ✔️
 
 
 ## Módulo E – Repetições e Exercícios em JavaScript
