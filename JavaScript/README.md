@@ -32,6 +32,11 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 - **Módulo 05:** Repetições (laços) em JavaScript
 - **Módulo 06:** Avançando nos estudos em JavaScript
 
+- Total de 6 módulos
+- Total de 14 aulas
+- 8 Exercícios
+- 31 vídeos
+
 
 ## Carga Horária:
 40 horas
