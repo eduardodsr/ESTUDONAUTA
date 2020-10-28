@@ -1,0 +1,28 @@
+body {
+    background: blueviolet;
+    font: normal 15pt Arial;
+}
+header {
+    color: white;
+    text-align: center; /* centralizar o texto */    
+
+}
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px; /* largura */
+    margin: auto; /* centralizar */
+    text-align: center;
+    box-shadow: 3px 3px 10px lightslategray;
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+footer {
+    color: white;
+    text-align: center; /* centralizar o texto */
+    font-style: italic;
+}
