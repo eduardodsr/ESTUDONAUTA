@@ -49,7 +49,7 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 
 ## Certificado: 
 
-``` Link: ``` [PrintScreen]<https://github.com/eduardodsr/ESTUDONAUTA/blob/master/JavaScript/PrintJS.png>
+``` Link: ``` [PrintScreen](https://github.com/eduardodsr/ESTUDONAUTA/blob/master/JavaScript/PrintJS.png)
 
 ``` Link: ``` [certificate-template](https://www.estudonauta.com/certificate-template/?certificate_code=)
 
