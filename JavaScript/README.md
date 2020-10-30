@@ -111,8 +111,8 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 01. Módulo F – Avançando os estudos em JavaScript 	:x:
 01. JavaScript 15 – Variáveis Compostas	:x:
 01. JavaScript 16 – Funções :x:
-01. JavaScript 16 – Exercícios (parte 1)	:x:
-01. JavaScript 16 – Exercícios (parte 2) :x:
+01. JavaScript 16 – Exercícios (Ex - parte 7)	:x:
+01. JavaScript 16 – Exercícios (Ex - parte 8) :x:
 01. JavaScript 17 – Próximos Passos	:x:
 
 ## Ferramentas:
