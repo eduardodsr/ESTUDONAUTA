@@ -32,6 +32,14 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 - **Módulo 05:** Repetições (laços) em JavaScript
 - **Módulo 06:** Avançando nos estudos em JavaScript
 
+- Total de 14 Aulas (com 33 vídeos). 
+
+## Projetos (Exercícios e Desafios)
+- Modelo de Site
+- Hora do Dia (interatividade)
+- Vamos Contar interatividade)
+- Tabuada
+- Analisador de Numeros
 
 ## Carga Horária:
 40 horas
@@ -89,38 +97,33 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 ## Módulo D – Condições em JavaScript
 01. [JavaScript 11 - Condições (Parte 1)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula11) ✔️
 01. [JavaScript 11 - Condições (Parte 2)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12) ✔️
-01. [JavaScript 12 - Exercícios (Parte 1)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex) ✔️
-01. [JavaScript 12 - Exercícios (Parte 2)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex/ex14) ✔️
-01. [JavaScript 12 - Exercícios (Parte 3)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12) ✔️
+01. [JavaScript 12 - Exercícios (Ex 1)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex) ✔️
+01. [JavaScript 12 - Exercícios (Ex 2)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex/ex14) ✔️
+01. [JavaScript 12 - Exercícios (Ex 3)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex/ex15) ✔️
 
 
 ## Módulo E – Repetições e Exercícios em JavaScript
-01. Módulo E – Repetições em JavaScript :x:
-01. JavaScript 13 – Repetições (Parte 1) :x:
-01. JavaScript 13 – Repetições (Parte 2) :x:
-01. JavaScript 14 – Exercícios (parte 1) :x:
-01. JavaScript 14 – Exercícios (parte 2)( :x:
-01. JavaScript 14 – Exercícios (parte 3) :x:
+01. Módulo E – Repetições em JavaScript ✔️
+01. [JavaScript 13 – Repetições (Parte 1)] ✔️
+01. [JavaScript 13 – Repetições (Parte 2)] ✔️
+01. [JavaScript 14 – Exercícios (Ex 4)] ✔️
+01. [JavaScript 14 – Exercícios (Ex 5)] ✔️
+01. [JavaScript 14 – Exercícios (Ex 6)] ✔️
 
 
 ## Módulo F – Avançando os estudos em JavaScript
-01. Módulo F – Avançando os estudos em JavaScript 	:x:
-01. JavaScript 15 – Variáveis Compostas	:x:
-01. JavaScript 16 – Funções :x:
-01. JavaScript 16 – Exercícios (parte 1)	:x:
-01. JavaScript 16 – Exercícios (parte 2) :x:
-01. JavaScript 17 – Próximos Passos	:x:
+01. Módulo F – Avançando os estudos em JavaScript 	✔️
+01. JavaScript 15 – Variáveis Compostas	✔️
+01. [JavaScript 16 – Funções](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16) ✔️
+01. [JavaScript 16 – Exercícios (Ex 7)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16ex)	✔️
+01. [JavaScript 16 – Exercícios (Ex 8)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16ex) ✔️
+01. JavaScript 17 – Próximos Passos	✔️
 
 ## Ferramentas:
 - Google Chrome
 - Editor de Código (VS Code)
 - Node JS
 
-## Dicas - Como aprender a programar?
-- Aulas (vídeos, livros, cursos, etc.)
-- Praticar (exercícios, projetos, desafios, etc.). Você aprendende a programar somente praticando. Não virar um copiador de código.  
-- Ter um guia de referência de conteúdo, manual, livro. Fazer anotações, resumos.
-- Compartilhar o conhecimentos. Ensinar o que aprendeu. Interagir com a pessoas. Comunidade. Participar de grupos de estudos, fóruns, eventos, treinamentos, etc.
 
 ## Referências e Guias:
 
