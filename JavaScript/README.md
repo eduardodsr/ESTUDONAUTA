@@ -44,6 +44,17 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara vai ensinar o
 ## Carga Horária:
 40 horas
 
+## Data de Conclusão:
+30/10/2020
+
+## Certificado: 
+
+``` Link: ``` [PrintScreen]<https://github.com/eduardodsr/ESTUDONAUTA/blob/master/JavaScript/PrintJS.png>
+
+``` Link: ``` [certificate-template](https://www.estudonauta.com/certificate-template/?certificate_code=)
+
+
+
 ## Links das Plataformas:
 
 **Site Curso em Video (Gratuito):** 
@@ -104,20 +115,20 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 
 ## Módulo E – Repetições e Exercícios em JavaScript
 01. Módulo E – Repetições em JavaScript ✔️
-01. [JavaScript 13 – Repetições (Parte 1)] ✔️
-01. [JavaScript 13 – Repetições (Parte 2)] ✔️
-01. [JavaScript 14 – Exercícios (Ex 4)] ✔️
-01. [JavaScript 14 – Exercícios (Ex 5)] ✔️
-01. [JavaScript 14 – Exercícios (Ex 6)] ✔️
+01. [JavaScript 13 – Repetições (Parte 1)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula13-parte1) ✔️
+01. [JavaScript 13 – Repetições (Parte 2)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula13-parte2) ✔️
+01. [JavaScript 14 – Exercícios (Ex)] ✔️
+01. [JavaScript 14 – Exercícios (Ex)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula14-ex5) ✔️
+01. [JavaScript 14 – Exercícios (Ex)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula14-ex6) ✔️
 
 
 ## Módulo F – Avançando os estudos em JavaScript
 01. Módulo F – Avançando os estudos em JavaScript 	✔️
-01. JavaScript 15 – Variáveis Compostas	✔️
+01. [JavaScript 15 – Variáveis Compostas](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula15)	✔️
 01. [JavaScript 16 – Funções](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16) ✔️
-01. [JavaScript 16 – Exercícios (Ex 7)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16ex)	✔️
-01. [JavaScript 16 – Exercícios (Ex 8)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16ex) ✔️
-01. JavaScript 17 – Próximos Passos	✔️
+01. [JavaScript 16 – Exercícios (Ex)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16ex)	✔️
+01. [JavaScript 16 – Exercícios (Ex)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16ex) ✔️
+01. [JavaScript 17 – Próximos Passos](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula17)	✔️
 
 ## Ferramentas:
 - Google Chrome
