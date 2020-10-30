@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabuada</title>
+    <link rel="stylesheet" href="./estilo.css">
+</head>
+<body>
+    <header> 
+        <h1>Tabuada</h1>
+    </header>
+    <section id="sec">
+        <div>
+            <p>Numero <input type="number" name="num" id="txtn">
+                <input type="button" value="Gerar Tabuada" onclick="tabuada()">
+            </p>            
+        </div>
+        <div>
+            <select name="tabuada" id="seltab" size="10">
+                <option value="">Digite um número acima</option>
+                <!-- 
+                    forma manual:
+                    <option value="valor1">Valor 1</option>
+                    <option value="valor2">Valor 2</option>
+                    OBS: No script.js, está criado uma forma dinamica.
+                 -->
+            </select>
+
+        </div>
+    </section>
+    <footer>
+        <p>&copy; Curso em Vídeo</p>
+    </footer>
+    <script src="./script.js"></script>
+</body>
+</html>
