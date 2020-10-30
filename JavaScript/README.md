@@ -93,27 +93,27 @@ Atividades de Eduardo Rodrigues. Estou revisando os meus conhecimentos de JS com
 ## Módulo D – Condições em JavaScript
 01. [JavaScript 11 - Condições (Parte 1)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula11) ✔️
 01. [JavaScript 11 - Condições (Parte 2)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12) ✔️
-01. [JavaScript 12 - Exercícios (Ex - Parte 1)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex) ✔️
-01. [JavaScript 12 - Exercícios (Ex - Parte 2)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex/ex14) ✔️
-01. [JavaScript 12 - Exercícios (Ex - Parte 3)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex/ex15) ✔️
+01. [JavaScript 12 - Exercícios (Ex 1)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex) ✔️
+01. [JavaScript 12 - Exercícios (Ex 2)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex/ex14) ✔️
+01. [JavaScript 12 - Exercícios (Ex 3)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula12ex/ex15) ✔️
 
 
 ## Módulo E – Repetições e Exercícios em JavaScript
 01. Módulo E – Repetições em JavaScript ✔️
-01. JavaScript 13 – Repetições (Parte 1) ✔️
-01. JavaScript 13 – Repetições (Parte 2) ✔️
-01. JavaScript 14 – Exercícios (Ex - parte 4) ✔️
-01. JavaScript 14 – Exercícios (Ex - parte 5) ✔️
-01. JavaScript 14 – Exercícios (Ex - parte 6) ✔️
+01. [JavaScript 13 – Repetições (Parte 1)] ✔️
+01. [JavaScript 13 – Repetições (Parte 2)] ✔️
+01. [JavaScript 14 – Exercícios (Ex 4)] ✔️
+01. [JavaScript 14 – Exercícios (Ex 5)] ✔️
+01. [JavaScript 14 – Exercícios (Ex 6)] ✔️
 
 
 ## Módulo F – Avançando os estudos em JavaScript
-01. Módulo F – Avançando os estudos em JavaScript 	:x:
-01. JavaScript 15 – Variáveis Compostas	:x:
-01. JavaScript 16 – Funções :x:
-01. JavaScript 16 – Exercícios (Ex - parte 7)	:x:
-01. JavaScript 16 – Exercícios (Ex - parte 8) :x:
-01. JavaScript 17 – Próximos Passos	:x:
+01. Módulo F – Avançando os estudos em JavaScript 	✔️
+01. JavaScript 15 – Variáveis Compostas	✔️
+01. [JavaScript 16 – Funções](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16) ✔️
+01. [JavaScript 16 – Exercícios (Ex 7)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16ex)	✔️
+01. [JavaScript 16 – Exercícios (Ex 8)](https://github.com/eduardodsr/ESTUDONAUTA/tree/master/JavaScript/aula16ex) ✔️
+01. JavaScript 17 – Próximos Passos	✔️
 
 ## Ferramentas:
 - Google Chrome
