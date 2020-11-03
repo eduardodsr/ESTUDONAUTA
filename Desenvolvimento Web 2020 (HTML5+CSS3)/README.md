@@ -29,11 +29,11 @@ Atividades de Eduardo Rodrigues
 08. Símbolos e Emojis		[✔️]	
 09. Direitos Autorais		[✔️]	
 10. Formatos de Imagem	[✔️]		
-11. Tamanhos de Imagem		
-12. Imagens em HTML5		
-13. Ícones e Favoritos		
-14. Hierarquia de Títulos		
-15. Semântica em HTML5		
+11. Tamanhos de Imagem	[✔️]		
+12. Imagens em HTML5		[✔️]	
+13. Ícones e Favoritos	[✔️]		
+14. Hierarquia de Títulos		[✔️]	
+15. Semântica em HTML5		[✔️]	
 16. Negrito e Itálico		
 17. Formatações Importantes		
 18. Códigos e citações		
