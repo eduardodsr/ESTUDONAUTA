@@ -34,14 +34,14 @@ Atividades de Eduardo Rodrigues
 13. Ícones e Favoritos	[✔️]		
 14. Hierarquia de Títulos		[✔️]	
 15. Semântica em HTML5		[✔️]	
-16. Negrito e Itálico		
-17. Formatações Importantes		
-18. Códigos e citações		
-19. Listas OL e UL		
-20. Listas mistas e de definição		
-21. Links		
-22. Links Internos		
-23. Links para Download		
+16. Negrito e Itálico		[✔️]
+17. Formatações Importantes		[✔️]
+18. Códigos e citações		[✔️]
+19. Listas OL e UL		[✔️]
+20. Listas mistas e de definição	[✔️]	
+21. Links		[✔️]
+22. Links Internos		[✔️]
+23. Links para Download		[✔️]
 24. Desafios do Capítulo 10		
 25. Imagens Dinâmicas		
 26. Elemento Picture		
