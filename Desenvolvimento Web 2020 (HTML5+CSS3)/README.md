@@ -107,3 +107,64 @@ Atividades de Eduardo Rodrigues
 86. Imagens de fundo
 87. Propriedade background-image
 88. Propriedade background-repeat
+
+
+### Professor:
+
+Gustavo Guanabara
+
+### :cloud: YouTube Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5 -  :cloud:
+
+
+### EMENTA DO CURSO
+
+``` Link: ``` https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n 
+
+
+Aulas YouTube - Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5
+
+1. 2:24 - Começa aqui o novo [✔️]
+2. 7:52 - O que vamos aprender no módulo 01? [✔️]
+3. 19:26 - Precisamos fazer um acordo [✔️]
+4. 15:34 - Será que este curso é para mim? [✔️]
+5. 20:55 - Melhores livros para aprender HTML5 e CSS3 [✔️]
+6. 27:01 - Como a Internet chega na minha casa? [✔️]
+7. 22:15 - Como a Internet funciona? [✔️]
+8. 19:38 - O que é domínio e hospedagem? [✔️]
+9. 26:33 - A diferença entre HTML, CSS e JavaScript [✔️]
+10. 19:22 - Front-end, Back-end e Full stack [✔️]
+11. 13:44 - Instalando todas as ferramentas [✔️]
+12. 17:34 - Seu primeiro código HTML [✔️]
+13. 10:26 - Parágrafos e Quebras
+14. 12:59 - Símbolos e Emoji no seu site
+15. 10:40 - Você tem o direito de usar qualquer imagem no seu site?
+16. 15:50 - Quais são os formatos para imagens na Web?
+17. 15:58 - O tamanho das imagens importa para um site?
+18. 17:34 - A tag img em HTML5
+19. 15:50 - Como mudar o favicon de um site
+20. 15:45 - Hierarquia de Títulos
+21. 15:23 - Semântica na HTML5 é importante
+22. 12:19 - Negrito e Itálico do jeito certo
+23. 15:46 - Formatações adicionais em HTML
+24. 19:26 - Citações e Códigos
+25. 12:32 - Listas OL e UL
+26. 12:04 - Listas mistas e de definição
+27. 12:30 - Links e  ncoras em HTML5
+28. 15:08 - Links internos
+29. 8:55 - Links para download
+30. 5:48 - Desafios propostos
+31. 16:31 - Imagens Dinâmicas
+32. 13:27 - Imagens que se adaptam sozinhas
+33. 16:32 - Colocando áudio no seu site
+34. 12:50 - Formatos de vídeo para seu site
+35. 12:30 - Vídeos em hospedagem própria
+36. 14:06 - Incorporação de vídeos externos
+37. 5:52 - Desafio: um site com vídeos
+38. 16:13 - Estilos CSS inline
+39. 12:33 - Estilos CSS internos
+40. 17:05 - Estilos CSS externos
+41. 18:06 Fim do Módulo 1: Certificados liberados
+42. 15:50 -  🤩 Quando sai o Módulo 2 do Curso de HTML5? ✌️
+
+
+
